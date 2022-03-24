@@ -1,4 +1,3 @@
 First line of code
 
-
-New line
+2 line of code
